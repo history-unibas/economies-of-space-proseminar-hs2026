@@ -1,14 +1,24 @@
 > Hinweis: Die Notebooks sind als Vorlagen und zur Inspiration gedacht, die zur Weiterbearbeitung anregen sollen.
 
+## Über diese Notebooks
 
-# Differenzierte Zinsen – Notebook 1
-
-## Über dieses Notebook
-
-Das Notebook und das dazugehörige Datenset befinden sich im GitHub-Repositorium unter folgendem Link:
+Die Notebooks und die dazugehörigen Datensets befinden sich im GitHub-Repositorium unter folgendem Link:
 [economies-of-space-proseminar-hs2026/differenzierte_zinsen](https://github.com/history-unibas/economies-of-space-proseminar-hs2026/tree/main/differenzierte_zinsen)
 
-Das Notebook läuft mit `Python 3.12.6` (wurde ausschliesslich mit dieser Version getestet).
+Die Notebooks laufen mit `Python 3.12.6` (wurden ausschliesslich mit dieser Version getestet).
+
+## Mitwirkende
+
+An der Genese der Daten haben folgende Personen mitgearbeitet:
+
+- Benjamin Hitz
+- Ismail Prada
+- Katrin Fuchs
+- Jonas Aeby
+- Aline Vonwiller
+
+
+# Differenzierte Zinsen – Notebook 1
 
 ## Datenset
 
@@ -25,15 +35,6 @@ Das entspricht zwei verschiedenen Arten von Urkunden: Ersteres ist ein Nebenprod
 
 Darüber hinaus habe ich die Spalten von `rentsall_korrektur_df.csv` den Spalten eines weiteren Datensets mit dem Titel `froenfuerzins_korrektur_df.csv` angeglichen, um Analysen, die beide Datensets verbinden, zu erleichtern.
 
-## Mitwirkende
-
-An der Genese der Daten haben folgende Personen mitgearbeitet:
-
-- Benjamin Hitz
-- Ismail Prada
-- Katrin Fuchs
-- Jonas Aeby
-- Aline Vonwiller
 
 ## Änderungen an den Ursprungsdaten
 
@@ -155,7 +156,7 @@ Der genaue Anlass der jeweiligen Klage (zum Beispiel ein Drittkauf) ist im Daten
 
 ## Qualität der Organisationszuordnung
 
-Die automatisiert erkannten Organisationen wurden für den Zeitraum 1400–1530 zusätzlich manuell kontrolliert und korrigiert, sofern die automatische Erkennung fehlerhaft war.
+Die automatisiert erkannten Organisationen wurden (wie für den Datensatz zu den Zinsarten) für den Zeitraum 1400–1530 zusätzlich manuell kontrolliert und korrigiert, sofern die automatische Erkennung fehlerhaft war.
 
 Der Johanniterorden in der St. Johanns-Vorstadt und die St. Johanns-Bruderschaft auf dem Münster sind im Datenset noch nicht sauber voneinander getrennt.
 
