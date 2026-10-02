@@ -2,7 +2,7 @@
 
 ## Über diese Notebooks
 
-Die Notebook basiert auf dem Notebook vom Herbstsemester 2024. Es wurde mit dem Ziel erstellt, Studierenden und Forschenden einen Raum zum Experimentieren zu bieten, in dem sie Vibe Coding und den Umgang mit historischen Datensätzen erproben können.
+Die Notebook basiert auf dem Notebook vom FS 2024. Es wurde mit dem Ziel erstellt, Studierenden und Forschenden einen Raum zum Experimentieren zu bieten, in dem sie Vibe Coding und den Umgang mit historischen Datensätzen erproben können.
 
 Die Notebooks laufen mit `Python 3.12.6` (wurden ausschliesslich mit dieser Version getestet).
 
